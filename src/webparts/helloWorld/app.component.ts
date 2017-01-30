@@ -38,6 +38,8 @@ export class AppComponent implements OnInit {
   constructor(
     @Inject(HeroService) public heroService: HeroService
 
+    //private heroService : HeroService
+
   ) {
     //constructor code
   }
