@@ -1,0 +1,10 @@
+{
+  "solution": {
+    "name": "service-try-2-client-side-solution",
+    "id": "1c50707e-7140-4ca5-8ff8-e32d10def760",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/service-try-2.sppkg"
+  }
+}
